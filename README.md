@@ -47,6 +47,16 @@ Format & Style: Apply consistent themes, colors, and labels for readability.
 Review & Publish: Check for accuracy and publish to Power BI Service (if needed).
 
 
+
+![Image](https://github.com/user-attachments/assets/0d59c83d-01be-41d2-a4d0-baddf802026d)
+
+
+
+
+
+
+
+
 4) PROJECT INSIGHT
 
 The project analyzes BlinkIt Grocery Data to understand customer buying patterns.
