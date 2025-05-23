@@ -40,6 +40,8 @@ PROJECT PROCESS
 2. Data Cleaning & Preparation (Python)
 3. Exploratory Data Analysis (Python)
 4. Visualization (Power BI)
+
+![Image](https://github.com/user-attachments/assets/1c5db0ea-4c21-4a49-8607-0da503f74c29)
    
 
 FINAL CONCLUSION
