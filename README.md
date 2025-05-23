@@ -1,14 +1,14 @@
 # Blinkit-DB
-1) PROBLEM STATEMENT
+ PROBLEM STATEMENT
 
-In the fast-paced world of online grocery delivery, data-driven decision-making is critical for operational efficiency and customer satisfaction. 
-Blinkit, a rapid delivery platform, generates vast amounts of transactional, operational, and customer data daily. However, without a centralized, 
-interactive dashboard, key insights remain siloed and difficult to act upon.This project aims to develop a comprehensive Power BI dashboard for Blinkit 
-that visualizes essential business metrics—including sales trends, product performance, customer behavior, and order fulfillment—enabling stakeholders 
-to make informed decisions quickly. By transforming raw Excel-based data into dynamic visualizations, this dashboard serves as a strategic tool for business 
-analysis, performance tracking, and identifying areas for improvement.
+With rising competition in the quick-commerce space, understanding customer behavior, category performance, and sales trends is crucial. Blinkit needs actionable insights to:
+1) Boost sales,
+2) Optimize inventory,
+3) Understand customer preferences, and
+4) Increase operational efficiency.
 
-2) QUESTION(KPI)
+
+QUESTION(KPI)
 
 Total Orders
 <br>
