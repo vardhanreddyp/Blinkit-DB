@@ -1,5 +1,6 @@
 # Blinkit-DB
 PROBLEM STATEMENT
+<br>
 With rising competition in the quick-commerce space, understanding customer behavior, category performance, and sales trends is crucial. Blinkit needs actionable insights to:
 1) Boost sales,
 2) Optimize inventory,
@@ -45,5 +46,6 @@ PROJECT PROCESS
    
 
 FINAL CONCLUSION
+<br>
 The analysis reveals that Blinkit has strong sales performance in select categories and regions, but there’s room for improving customer retention. Investing in targeted marketing, loyalty programs, and expanding high-performing categories can drive growth. The Power BI dashboard empowers stakeholders to monitor KPIs interactively and make data-driven decisions.
 
