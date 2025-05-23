@@ -1,6 +1,5 @@
 # Blinkit-DB
- PROBLEM STATEMENT
-
+PROBLEM STATEMENT
 With rising competition in the quick-commerce space, understanding customer behavior, category performance, and sales trends is crucial. Blinkit needs actionable insights to:
 1) Boost sales,
 2) Optimize inventory,
@@ -8,47 +7,15 @@ With rising competition in the quick-commerce space, understanding customer beha
 4) Increase operational efficiency.
 
 
-QUESTION(KPI)
-
-Total Orders
-<br>
-Revenue / Total Sales
-<br>
-Average Order Value
-<br>
-Customer Acquisition
-<br>
-Product Categories Performance
-<br>
-Repeat Customer Rate
-<br>
-Inventory Turnover
-<br>
-Cancellation Rate
-<br>
-Gross Margin
-
-3) PROCESS
-
-Import Data: Load the BlinkIT Grocery Excel file into Power BI.
-<br>
-Clean & Transform: Use Power Query to clean, format, and structure the data.
-<br>
-Data Modeling: Establish relationships between tables and define calculated columns/measures using DAX.
-<br>
-Design Visuals: Create visuals like bar charts, pie charts, tables, and KPIs to represent insights.
-<br>
-Create Dashboard: Arrange visuals into a cohesive report/dashboard layout.
-<br>
-Apply Filters/Slicers: Add slicers and filters for interactive data exploration.
-<br>
-Format & Style: Apply consistent themes, colors, and labels for readability.
-<br>
-Review & Publish: Check for accuracy and publish to Power BI Service (if needed).
+PROJECT OBJECTIVE
+1) Analyze product-level sales data to understand performance trends.
+2) Identify top-selling and underperforming categories.
+3) Track customer purchasing behavior.
+4) Build interactive dashboards to aid decision-making.
 
 
 
-![Image](https://github.com/user-attachments/assets/0d59c83d-01be-41d2-a4d0-baddf802026d)
+KPI Requirements
 
 
 
@@ -57,27 +24,24 @@ Review & Publish: Check for accuracy and publish to Power BI Service (if needed)
 
 
 
-4) PROJECT INSIGHT
+DASHBOARD & CHART REQUIREMENTS (Power BI)
 
-The project analyzes BlinkIt Grocery Data to understand customer buying patterns.
-<br>
-It focuses on dashboard visualization for sales and product performance.
-<br>
-Key metrics include revenue, order frequency, and top-selling products.
-<br>
-Insights help optimize inventory and marketing strategies.
-<br>
-Data-driven decisions aim to improve customer satisfaction and sales growth.
-<br>
-The project highlights trends in product categories and regional preferences.
-<br>
-It supports identifying peak sales periods for better resource planning.
+The Power BI dashboard includes:
+1) Monthly Sales Trend 
+2) Top Categories by Revenue 
+3) Top Products by Quantity Sold 
+4) Customer Frequency Analysis 
+5) Sales by Location/City
 
 
-4) FINAL CONCLUSION
 
-This Power BI project delivers a comprehensive and interactive dashboard designed to analyze and visualize BlinkIt grocery sales data effectively. 
-By integrating multiple data sources and employing advanced DAX measures, the dashboard provides key insights into sales performance, product trends,
-customer behavior, and regional variations. The visualizations enable stakeholders to monitor critical metrics such as total revenue,
-order volume, and category-wise sales distribution, facilitating data-driven decision-making. This project demonstrates the power of Power BI in transforming raw transaction
-al data into actionable business intelligence, ultimately supporting strategic planning and operational improvements within BlinkIt’s grocery retail operations.
+PROJECT PROCESS
+1. Data Collection
+2. Data Cleaning & Preparation (Python)
+3. Exploratory Data Analysis (Python)
+4. Visualization (Power BI)
+   
+
+FINAL CONCLUSION
+The analysis reveals that Blinkit has strong sales performance in select categories and regions, but there’s room for improving customer retention. Investing in targeted marketing, loyalty programs, and expanding high-performing categories can drive growth. The Power BI dashboard empowers stakeholders to monitor KPIs interactively and make data-driven decisions.
+
