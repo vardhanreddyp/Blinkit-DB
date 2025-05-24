@@ -2,10 +2,10 @@
 PROBLEM STATEMENT:
 <br>
 With rising competition in the quick-commerce space, understanding customer behavior, category performance, and sales trends is crucial. Blinkit needs actionable insights to:
-1) Boost sales,
-2) Optimize inventory,
-3) Understand customer preferences, and
-4) Increase operational efficiency.
+1) Boost sales
+2) Optimize inventory
+3) Understand customer preferences
+4) Increase operational efficiency
 
 
 PROJECT OBJECTIVE:
