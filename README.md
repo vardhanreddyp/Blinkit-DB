@@ -1,5 +1,5 @@
 # Blinkit-DB
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
 <br>
 With rising competition in the quick-commerce space, understanding customer behavior, category performance, and sales trends is crucial. Blinkit needs actionable insights to:
 1) Boost sales,
@@ -8,7 +8,7 @@ With rising competition in the quick-commerce space, understanding customer beha
 4) Increase operational efficiency.
 
 
-PROJECT OBJECTIVE
+PROJECT OBJECTIVE:
 1) Analyze product-level sales data to understand performance trends.
 2) Identify top-selling and underperforming categories.
 3) Track customer purchasing behavior.
@@ -16,7 +16,15 @@ PROJECT OBJECTIVE
 
 
 
-KPI Requirements
+KPI Requirements:
+<br>
+Total sales
+<br>
+Average Sales
+<br>
+No of Items Sold
+<br>
+Average Ratings
 
 
 
@@ -25,7 +33,7 @@ KPI Requirements
 
 
 
-DASHBOARD & CHART REQUIREMENTS (Power BI)
+DASHBOARD & CHART REQUIREMENTS (Power BI):
 
 The Power BI dashboard includes:
 1) Monthly Sales Trend 
@@ -36,7 +44,7 @@ The Power BI dashboard includes:
 
 
 
-PROJECT PROCESS
+PROJECT PROCESS:
 1. Data Collection
 2. Data Cleaning & Preparation (Python)
 3. Exploratory Data Analysis (Python)
@@ -45,7 +53,7 @@ PROJECT PROCESS
 ![Image](https://github.com/user-attachments/assets/1c5db0ea-4c21-4a49-8607-0da503f74c29)
    
 
-FINAL CONCLUSION
+FINAL CONCLUSION:
 <br>
 The analysis reveals that Blinkit has strong sales performance in select categories and regions, but there’s room for improving customer retention. Investing in targeted marketing, loyalty programs, and expanding high-performing categories can drive growth. The Power BI dashboard empowers stakeholders to monitor KPIs interactively and make data-driven decisions.
 
